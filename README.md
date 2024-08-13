@@ -1,7 +1,8 @@
 
 # 🌟 Hello Cyber Security!
 
-Hi there! 👋 I'm Serkan, the creator of this project.  **This project is a beginning of my 6 weeks course.**
+Hi there! 👋 I'm Serkan, the creator of this project.  
+**This project is a beginning of my 6 weeks course.**
 
 ## 🚀 The Road to Success: 6 Essential Steps to Achieve Your Goals
 1. Work Hard and Smart: Dedicate yourself fully to your goals. Consistent effort and determination are the foundation of success.
