@@ -8,7 +8,8 @@ Hi there! 👋 I'm Serkan, the creator of this project. <p>*I love IT and cyber 
 ![Let's GO](https://www.psychologs.com/wp-content/uploads/2023/08/The-Psychology-Behind-Hard-work.jpg)
 
 2. Set Clear Goals: Define what success looks like for you. Set specific, measurable, and realistic goals to work towards.
-   ![]([https://www.psychologs.com/wp-content/uploads/2023/08/The-Psychology-Behind-Hard-work.jpg](https://massolutions.biz/wp-content/uploads/2023/09/shutterstock_2115361640-scaled.jpg))
+  ![Let's GO]([https://www.psychologs.com/wp-content/uploads/2023/08/The-Psychology-Behind-Hard-work.jpg](https://massolutions.biz/wp-content/uploads/2023/09/shutterstock_2115361640-scaled.jpg))
+
    
 4. Stay Disciplined: Maintain a routine and stick to your plans. Discipline ensures that you stay on track even when motivation fades.
 
